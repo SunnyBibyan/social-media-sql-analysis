@@ -1,4 +1,4 @@
-# 📊 Social Media SQL Data Analysis Project
+#  Social Media SQL Data Analysis Project
 
 ## 👤 Author
 **Sunny Bibyan** | Data Analyst  
@@ -11,7 +11,7 @@ The project demonstrates practical SQL skills, analytical thinking, and the abil
 
 ---
 
-## 🧩 Problem Statement
+##  Problem Statement
 You are working as a Data Analyst and collaborating with a Marketing Team.
 
 The objective is to analyze social media user data to help develop data-driven strategies that can improve:
@@ -22,7 +22,7 @@ The analysis is performed using SQL on a social media platform database, focusin
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze user behavior and platform activity
 - Identify engagement and interaction patterns
 - Understand user retention trends
@@ -31,7 +31,7 @@ The analysis is performed using SQL on a social media platform database, focusin
 
 ---
 
-## 🗄️ Database Description
+##  Database Description
 The database represents a simplified social media platform and includes relational tables such as:
 - Users
 - Posts
@@ -43,7 +43,7 @@ These tables are connected using primary and foreign keys, enabling multi-table 
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 - User activity and engagement analysis
 - Post-level engagement (likes and comments)
 - Identification of active and inactive users
@@ -52,7 +52,7 @@ These tables are connected using primary and foreign keys, enabling multi-table 
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 - SQL
   - SELECT, WHERE, ORDER BY
   - GROUP BY, HAVING
@@ -67,7 +67,7 @@ These tables are connected using primary and foreign keys, enabling multi-table 
 
 
 
-## 📈 Key Outcomes
+##  Key Outcomes
 - Improved confidence in writing complex SQL queries
 - Stronger understanding of relational database analysis
 - Ability to translate business questions into SQL logic
