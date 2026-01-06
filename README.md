@@ -2,7 +2,7 @@
 
 ## 👤 Author
 **Sunny Bibyan** | Data Analyst  
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing a social media platform database using SQL.
 
 The work is based on a provided problem statement where user data is analyzed to support marketing and business decision-making.
