@@ -64,15 +64,12 @@ These tables are connected using primary and foreign keys, enabling multi-table 
 ---
 
 
----
 
 ## 📈 Key Outcomes
 - Improved confidence in writing complex SQL queries
 - Stronger understanding of relational database analysis
 - Ability to translate business questions into SQL logic
 - Hands-on experience with structured datasets
-
----
 
 ---
 
