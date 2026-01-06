@@ -1,5 +1,7 @@
 # 📊 Social Media SQL Data Analysis Project
 
+## 👤 Author
+**Sunny Bibyan** | Data Analyst  
 ## 📌 Project Overview
 This project focuses on analyzing a social media platform database using SQL.
 
